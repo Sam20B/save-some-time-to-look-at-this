@@ -1,0 +1,20 @@
+body {
+    margin:0px;
+    padding:0px;
+    background-image: url('https://wallpapercave.com/download/anime-4k-pc-wallpapers-wp5121792');
+    background-size: cover;
+    background-position-x:right;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+}
+.cont {
+    position:absolute;
+    left:25%;
+    top:30%;
+    width:45%;
+    height:40%;
+    background-color:rgba(30, 62, 83, 0.842);
+    border-radius:25px;
+    border:1px solid rgba(51, 87, 110, 0.842);
+    box-shadow:0 5px 5px 8px rgba(23, 50, 68, 0.404);
+}
